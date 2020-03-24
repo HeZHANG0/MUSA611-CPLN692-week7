@@ -28,6 +28,7 @@ p.main {
 }
 
 .legend {
+  display: block
   position: absolute;
   background-color: #fff;
   z-index: 2000;
